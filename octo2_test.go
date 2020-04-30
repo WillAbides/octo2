@@ -1,4 +1,4 @@
-package goprojecttmpl
+package octo2
 
 import (
 	"testing"
